@@ -1,0 +1,9 @@
+{
+  "name": "home",
+  "version": "0.0.1",
+  "description": "Repo for personal projects",
+  "main": "index.ts",
+  "repository": "https://github.com/RobMurray98/home.git",
+  "author": "Robert Murray <rob98murray@gmail.com>",
+  "license": "MIT"
+}
